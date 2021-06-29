@@ -1,0 +1,159 @@
+[
+  {
+    "lat": -6.17441,
+    "lng": 106.82728,
+    "name": "National Monument",
+    "address": "Gambir, Gambir District, Central Jakarta City, Special Capital Region of Jakarta",
+    "link": "",
+    "description": [
+      "The National Monument is a 132 m obelisk in the centre of Merdeka Square, Central Jakarta, symbolizing the fight for Indonesia. It is the national monument of the Republic of Indonesia, built to commemorate the struggle for Indonesian independence. Construction began in 1961 under the direction of President Sukarno.",
+      "The towering monument encapsulates the philosophy of Lingga and Yoni. Lingga resembles an alu rice pestle and Yoni resembles a lesung rice mortar, two important traditional Indonesian tools. Lingga and Yoni also symbolize harmony, balance, fertility and eternal life with the lingga phallic symbol, representing masculinity, positive elements, and daytime and the Yoni the female organs symbol, representing femininity, negative elements, and night."
+    ]
+  },
+  {
+    "lat": -6.16895, 
+    "lng": 106.82344,
+    "name": "Merdeka Palace",
+    "address": "Gambir, Gambir District, Central Jakarta City, Special Capital Region of Jakarta",
+    "link": "presidenri.go.id",
+    "description": ["The Merdeka Palace, is one of six presidential palaces in Indonesia. It is located on the north side of the Merdeka Square in Central Jakarta, Indonesia and is used as the official residence of the President of the Republic of Indonesia."]
+  },
+  {
+    "lat": -6.20128, 
+    "lng": 106.87203,
+    "name": "Proclamation of Independence Monument",
+    "address": "10 Proklamasi, Menteng District, Central Jakarta, Special Capital Region of Jakarta",
+    "link": "jakarta-tourism.go.id",
+    "description": ["Taman Proklamasi is a park complex located in Central Jakarta, Indonesia. The park is located at the former property of Sukarno at what was known as the house at Jalan Pegangsaan Timur 56. The house, now demolished, is where the Proclamation of Indonesian Independence was first read by Sukarno."]
+  },
+  {
+    "lat": -6.18989, 
+    "lng": 106.83886,
+    "name": "Jakarta Planetarium and Observatory",
+    "address": "73 Cikini Raya, Menteng District, Central Jakarta, Special Capital Region of Jakarta",
+    "link": "",
+    "description": ["Jakarta Planetarium and Observatory is a public planetarium and an observatory, part of the Taman Ismail Marzuki art and science complex in Jakarta, Indonesia. The planetarium is the oldest of the three planetaria in Indonesia."]
+  },
+  {
+    "lat": -6.10384,
+    "lng": 106.73580,
+    "name": "Angke Kapuk Mangrove Nature Tourism Park",
+    "address": "4 Garden House, Penjaringan District, North Jakarta, Special Capital Region of Jakarta",
+    "link": "jakartamangrove.id",
+    "description": [
+      "Mangrove Nature Park is part of the Angke Kapuk Forest Area with an area of 99.82 hectares. The type of ecosystem that is the habitat of this variety of water birds is the mangrove ecosystem. This place functions as a means of natural tourism while maintaining the preservation of the function of mangroves as a life support.",
+      "Apart from being a mangrove ecosystem, there are also various types of swamp forest and fauna that dominate this area, generally protected species."
+    ]
+  },
+  {
+    "lat": -6.30230,
+    "lng": 106.89521,
+    "name": "Taman Mini Indonesia Indah",
+    "address": "Raya Taman Mini, East Jakarta, Special Capital Region of Jakarta",
+    "subattraction": [
+      "Science and Technology Demonstration Center",
+      "Snow Bay Waterpark",
+      "Bird Park",
+      "Freshwater Aquarium Garden",
+      "Indonesian Children's Palace",
+      "The Great Mosque of At Tin"
+    ],
+    "link": "tamanmini.com",
+    "description": [
+      "This park is a summary of the culture of the Indonesian nation, which covers various aspects of the daily life of the people of 33 provinces of Indonesia (in 1975) which is displayed in traditional architectural pavilions, and displays various clothing, dances and regional traditions.",
+      "Besides that, in the middle of TMII there is a lake depicting a miniature of the Indonesian archipelago in the middle, a cable car, various museums, and the Keong Mas IMAX Theater and Tanah Airku Theater), these various recreational facilities make TMIII one of the leading tourist areas in Indonesia. city."
+    ]
+  },
+  {
+    "lat": -6.12813, 
+    "lng": 106.83321,
+    "name": "Ancol Dreamland",
+    "address": "7 Lodan Timur, Pademangan District, North Jakarta, Special Capital Region of Jakarta",
+    "subattraction": [
+      "Fantasy World",
+      "Atlantis Water Adventure",
+      "Ocean Dream Samudra",
+      "Sea World",
+      "Ancol Beaches",
+      "Pasar Seni",
+      "Allianz Eco Park",
+      "Executive Golf Fun",
+      "Jaya Bowling"
+    ],
+    "link": "ancol.com",
+    "description": ["Taman Impian Jaya Ancol also known as Ancol Dreamland is an integral part of Ancol Bay City, a resort destination located along Jakarta's waterfront, in Ancol, Pademangan, Indonesia."]
+  },
+  {
+    "lat": -6.31139, 
+    "lng": 106.81997,
+    "name": "Ragunan Zoo",
+    "address": "1 Harsono RM, Ps. Minggu District, South Jakarta, Special Capital Region of Jakarta",
+    "link": "ragunanzoo.jakarta.go.id",
+    "description": ["Ragunan Zoo is a zoo located in Pasar Minggu, South Jakarta, Indonesia. The zoo has an area of 140-hectare. The zoo has an aviary and a primate centre, and employs over 450 people. Many of the animals in the zoo are endangered and threatened from all parts of Indonesia and the rest of the world."]
+  },
+  {
+    "lat": -6.13483, 
+    "lng": 106.81326,
+    "name": "Jakarta Old Town",
+    "address": "Kota Tua, West Jakarta, Special Capital Region of Jakarta",
+    "subattraction": [
+      "Fatahillah Square",
+      "Jakarta History Museum",
+      "Museum Bank Indonesia",
+      "Museum Mandiri",
+      "Wayang Museum"
+    ],
+    "link": "",
+    "description": [
+      "Kota Tua Jakarta (\"Jakarta Old Town\"), officially known as Kota Tua, is a neighborhood comprising the original downtown area of Jakarta, Indonesia. It is also known as Oud Batavia (Dutch for \"Old Batavia\"), Benedenstad (Dutch for \"Lower City\", contrasting it with Weltevreden, de Bovenstad (\"Upper City\")), or Kota Lama (Indonesian \"Old Town\").",
+      "The site contains Dutch-style structures mostly dated from 17th century, when the port city served as the Asian headquarter of VOC during the heyday of spice trade. It spans 1.3 square kilometres within North Jakarta and West Jakarta (Kelurahan Pinangsia, Taman Sari and Kelurahan Roa Malaka, Tambora). The largely Chinese downtown area of Glodok is a part of Kota Tua."
+    ]
+  },
+  {
+    "lat": -6.14260, 
+    "lng": 106.81405,
+    "name": "Glodok Chinatown",
+    "address": "Taman Sari District, West Jakarta, Special Capital Region of Jakarta",
+    "link": "",
+    "description": ["Covered Chinese market selling local produce, fashions & electric goods, with food stalls outside."]
+  },
+  {
+    "lat": -5.72419, 
+    "lng": 106.59865,
+    "name": "Kepulauan Seribu Regency",
+    "address": "Kepulauan Seribu Regency, Special Capital Region of Jakarta",
+    "subattraction": [
+      "Pramuka Island",
+      "Bidadari Island",
+      "Kelapa Island",
+      "Pari Island",
+      "Ayer Island"
+    ],
+    "link": "",
+    "description": ["The Thousand Islands are a chain of islands to the north of Jakarta's coast. It forms the only regency of Jakarta, the capital of Indonesia. It consists of a string of 342 islands stretching 45 km north into the Java Sea at West Jakarta Bay and in fact north of Banten Province."]
+  },
+  {
+    "lat": -6.33851, 
+    "lng": 106.82374,
+    "name": "Setu Babakan Batavian Cultural Village",
+    "address": "Srenseng Sawah, Jagakarsa District, South Jakarta, Special Capital Region of Jakarta",
+    "link": "setubabakanbetawi.com",
+    "description": ["Setu Babakan Betawi Cultural Village or Setu Babakan is a cultural park of Betawi people, which is located at Srengseng Sawah, Jagakarsa, Jakarta in Indonesia."]
+  },
+  {
+    "lat": -6.17538, 
+    "lng": 106.82223,
+    "name": "National Museum",
+    "address": "12 Medan Merdeka Barat, Gambir District, Central Jakarta, Special Capital Region of Jakarta",
+    "link": "museumnasional.or.id",
+    "description": ["The National Museum of Indonesia, is an archeological, historical, ethnological, and geographical museum located in Jalan Medan Merdeka Barat, Central Jakarta, right on the west side of Merdeka Square. Popularly known as the Elephant Museum after the elephant statue in its forecourt."]
+  },
+  {
+    "lat": -6.17769, 
+    "lng": 106.83251,
+    "name": "National Gallery of Indonesia",
+    "address": "14 Medan Merdeka Barat, Gambir District, Central Jakarta, Special Capital Region of Jakarta",
+    "link": "galeri-nasional.or.id",
+    "description": ["The National Gallery of Indonesia is an art gallery and museum in Jakarta, Indonesia. The National Gallery of Indonesia has existed as a cultural institution in the field of visual arts since May 8, 1999."]
+  }
+]
