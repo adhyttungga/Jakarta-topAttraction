@@ -18,15 +18,15 @@ const Home = () => {
   const [state, setState] = React.useState(undefined)
   const [zoom, setZoom] = React.useState(15)
   const [center, setCenter] = React.useState({
-    lat: 1.29250, 
-    lng: 103.85200,
+    lat: -6.17441,
+    lng: 106.82728,
   })
   const [data, setData] = React.useState([])
 
   const toggleCancel = () => {
     setState(undefined)
     setZoom(15)
-    setCenter({...center, lat: 1.29250, lng: 103.85200})
+    setCenter({...center, lat: -6.17441, lng: 106.82728,})
   }
   
   const toggleMarker = (newState, lat, lng) => {
@@ -37,7 +37,7 @@ const Home = () => {
   
   // load local json file with fetch method
   const getData = () => {
-    fetch('./data.json', {
+    fetch('./jakarta.json', {
       headers: {
         "Content-Type": "application/json",
         "Accept": "application/json"

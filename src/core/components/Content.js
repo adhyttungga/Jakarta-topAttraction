@@ -146,7 +146,7 @@ const useStyles = makeStyles({
     backgroundColor: "#313541"
   },
   media: {
-    height: 250
+    minHeight: 250
   },
   placeName: {
     color: "white",
@@ -283,6 +283,7 @@ const Description = (props) => {
     address, 
     state 
   } = props
+  console.log(description.length)
   
   return (
     <Drawer
