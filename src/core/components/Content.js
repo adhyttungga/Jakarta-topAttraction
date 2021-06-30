@@ -55,7 +55,7 @@ const useStyles = makeStyles({
         bottom: 45,
         left: "50%",
         transform: `translate(${-50}px, ${-50}%)`,
-        minWidth: 250,
+        minWidth: 350,
         height: 90,
         backgroundColor: "#92d72e",
         "& > *": {
@@ -100,7 +100,7 @@ const useStyles = makeStyles({
     bottom: 25,
     left: "50%",
     transform: `translate(${-7}%, ${-50}%)`,
-    width: 210,
+    minWidth: 210,
     minHeight: 30,
     color: "white",
     backgroundColor: "#282c38",
@@ -124,7 +124,7 @@ const useStyles = makeStyles({
     bottom: 45,
     left: "50%",
     transform: `translate(${-50}px, ${-50}%)`,
-    minWidth: 250,
+    minWidth: 350,
     height: 90,
     backgroundColor: "#92d72e",
     "& > *": {
