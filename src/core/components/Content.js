@@ -11,15 +11,18 @@ import Drawer from '@material-ui/core/Drawer'
 import { makeStyles } from '@material-ui/core/styles'
 
 // import image files
-import MerlionPict from './../../assets/images/joshua-ang-Gf_KqXHU-PY-unsplash.jpg'
-import MBSPict from './../../assets/images/partha-narasimhan-duXJOBVg_l4-unsplash.jpg'
-import GardenPict from './../../assets/images/miguel-sousa-ahSFjjLru4Y-unsplash.jpg'
-import SingaporeFlyer from './../../assets/images/emily-rusch-oOc2BuEtXYs-unsplash.jpg'
-import ClarkeQuay from './../../assets/images/francois-le-nguyen-poEeFwlzPOc-unsplash.jpg'
-import FCPPict from './../../assets/images/depositphotos_312108044-stock-photo-natural-scenery-spiral-staircase-gray.jpg'
-import Chinatown from './../../assets/images/lily-banse-24ha6GoKHqs-unsplash.jpg'
-import OrchardSt from './../../assets/images/hannah-sibayan-KZhMBYzKtNg-unsplash.jpg'
-import ACMPict from './../../assets/images/Asian_civilisations_museums_singapore.jpg'
+import Monas from './../../assets/images/monas.jpg'
+import Planetarium from './../../assets/images/jakarta-planetarium.jpg'
+import MangrovePark from './../../assets/images/mangrove-park.jpg'
+import TMII from './../../assets/images/taman-mini.jpg'
+import Ancol from './../../assets/images/ancol.jpg'
+import Ragunan from './../../assets/images/ragunan-zoo.jpg'
+import OldTown from './../../assets/images/kota-tua.jpg'
+import Chinatown from './../../assets/images/chinatown.jpg'
+import KpSeribu from './../../assets/images/pulau-ayer.jpg'
+import NationalMuseum from './../../assets/images/museum-nasional.jpg'
+import NationalGallery from './../../assets/images/galeri-nasional.jpg'
+import SetuBabakan from './../../assets/images/setu-babakan.jpg'
 
 const useStyles = makeStyles({
   root: {
@@ -174,15 +177,18 @@ const Content = (props) => {
   const {state, center, zoom, stores, toggleMarker} = props
 
   const media = [
-    MerlionPict,
-    MBSPict,
-    GardenPict,
-    Chinatown,
-    ACMPict,
-    ClarkeQuay,
-    FCPPict,
-    SingaporeFlyer,
-    OrchardSt,
+    { image: Monas, credit: "Uray Zulfikar", link: "https://unsplash.com/@uray_z?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" },
+    { image: Planetarium, credit: "Jakarta Tourism", link: "https://www.instagram.com/jakarta_tourism/" },
+    { image: MangrovePark, credit: "TWA Mangrove Angke Kapuk", link: "https://www.instagram.com/twa_mangrove/" },
+    { image: TMII, credit: "Novik", link: "https://www.instagram.com/meisnovik/" },
+    { image: Ancol, credit: "Syahril Fadillah", link: "https://unsplash.com/@syahrilfdilla_id?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" },
+    { image: Ragunan, credit: "Ragunan Zoo", link: "https://www.instagram.com/ragunanzoo/" },
+    { image: OldTown, credit: "Yulia Agnis", link: "https://unsplash.com/@agnisyulia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" },
+    { image: Chinatown, credit: "Jakob Montrasio", link: "https://www.flickr.com/people/37803129@N00" },
+    { image: KpSeribu, credit: "Pulau Seribu", link: "https://pulauseribu.co.id/pulau-ayer/" },
+    { image: NationalMuseum, credit: "Dea Kariza", link: "https://www.instagram.com/dea.kariza/" },
+    { image: NationalGallery, credit: "Galeri Nasional Indonesia", link: "https://www.instagram.com/galerinasional/" },
+    { image: SetuBabakan, credit: "Ari WibisonoZulfikar", link: "https://www.instagram.com/wibisono.ari/" },
   ]
   
   // display multiple marker
@@ -294,7 +300,8 @@ const Description = (props) => {
         paper: classes.drawerPaper
       }}
     >
-      <CardMedia image={media} className={classes.media}/>
+      <CardMedia image={media.image} className={classes.media}/>
+      <Typography className={classes.title} style={{color: "white"}}>Photo by <a href={media.link} style={{color: "white"}}>{media.credit}</a></Typography>
       <CardContent className={classes.placeName}>
         <Typography className={classes.title}>{name}</Typography>
       </CardContent>
