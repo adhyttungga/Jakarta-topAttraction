@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Jakarta-topAttraction/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Jakarta-topAttraction/static/js/main.bc90957e.chunk.js",
+    "main.js.map": "/Jakarta-topAttraction/static/js/main.bc90957e.chunk.js.map",
+    "runtime-main.js": "/Jakarta-topAttraction/static/js/runtime-main.e88f1515.js",
+    "runtime-main.js.map": "/Jakarta-topAttraction/static/js/runtime-main.e88f1515.js.map",
+    "static/js/2.3ebfe415.chunk.js": "/Jakarta-topAttraction/static/js/2.3ebfe415.chunk.js",
+    "static/js/2.3ebfe415.chunk.js.map": "/Jakarta-topAttraction/static/js/2.3ebfe415.chunk.js.map",
+    "index.html": "/Jakarta-topAttraction/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Jakarta-topAttraction/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.3ebfe415.chunk.js.LICENSE.txt": "/Jakarta-topAttraction/static/js/2.3ebfe415.chunk.js.LICENSE.txt",
+    "static/media/ancol.5c92c31e.jpg": "/Jakarta-topAttraction/static/media/ancol.5c92c31e.jpg",
+    "static/media/chinatown.29c824f3.jpg": "/Jakarta-topAttraction/static/media/chinatown.29c824f3.jpg",
+    "static/media/galeri-nasional.880004c7.jpg": "/Jakarta-topAttraction/static/media/galeri-nasional.880004c7.jpg",
+    "static/media/jakarta-planetarium.377f751f.jpg": "/Jakarta-topAttraction/static/media/jakarta-planetarium.377f751f.jpg",
+    "static/media/kota-tua.650ae019.jpg": "/Jakarta-topAttraction/static/media/kota-tua.650ae019.jpg",
+    "static/media/mangrove-park.7d324a19.jpg": "/Jakarta-topAttraction/static/media/mangrove-park.7d324a19.jpg",
+    "static/media/monas.27c33899.jpg": "/Jakarta-topAttraction/static/media/monas.27c33899.jpg",
+    "static/media/museum-nasional.03deb984.jpg": "/Jakarta-topAttraction/static/media/museum-nasional.03deb984.jpg",
+    "static/media/pulau-ayer.ce1cb3cb.jpg": "/Jakarta-topAttraction/static/media/pulau-ayer.ce1cb3cb.jpg",
+    "static/media/ragunan-zoo.55e4eb30.jpg": "/Jakarta-topAttraction/static/media/ragunan-zoo.55e4eb30.jpg",
+    "static/media/setu-babakan.61549d9f.jpg": "/Jakarta-topAttraction/static/media/setu-babakan.61549d9f.jpg",
+    "static/media/taman-mini.87db733a.jpg": "/Jakarta-topAttraction/static/media/taman-mini.87db733a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88f1515.js",
+    "static/js/2.3ebfe415.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.bc90957e.chunk.js"
+  ]
+}
