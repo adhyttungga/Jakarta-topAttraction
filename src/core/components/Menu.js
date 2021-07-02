@@ -57,7 +57,7 @@ const useStyles = makeStyles( {
   },
   buttonSelected: {
     backgroundColor: "#1c1f27",
-    color: "#92d72e",
+    color: "#db0030",
   },
   filter: {
     color: "#677a81",
@@ -74,7 +74,7 @@ const Tab = withStyles( {
   },
   selected: {
     color: "#fffeff",
-    backgroundColor: "#72cdd2"
+    backgroundColor: "#004d98"
   }
 } )( MuiTab )
 
@@ -151,7 +151,7 @@ const Menu = ( props ) => {
         variant="fullWidth"
         aria-label="Navigation Bar"
         TabIndicatorProps={{
-          style: { background: "#72cdd2" }
+          style: { background: "#004d98" }
         }}
       >
         <Tab className={classes.tab} icon={<PublicIcon />} label="Browse" {...allyProps( 0 )} />

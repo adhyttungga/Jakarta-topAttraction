@@ -39,7 +39,6 @@ const useStyles = makeStyles({
   },
   marker: {
     position: "relative",
-    backgroundColor: "yellow",
     bottom: "50%",
     left: "50%",
     transform: `translate(${-50}%, ${-50}%)`,
@@ -60,7 +59,7 @@ const useStyles = makeStyles({
         transform: `translate(${-50}px, ${-50}%)`,
         minWidth: 350,
         height: 90,
-        backgroundColor: "#92d72e",
+        backgroundColor: "#004d98",
         "& > *": {
           paddingLeft: 50,
           fontSize: "1.2rem",
@@ -76,7 +75,7 @@ const useStyles = makeStyles({
   },
   iconButton: {
     padding: 0,
-    color: "#ea5a5a",
+    color: "#db0030",
     position: "absolute",
     bottom: 0,
     left: "50%",
@@ -87,7 +86,6 @@ const useStyles = makeStyles({
   },
   iconBtnSelected: {
     padding: 0,
-    color: "#ea5a5a",
     position: "absolute",
     bottom: 0,
     left: "50%",
@@ -129,7 +127,7 @@ const useStyles = makeStyles({
     transform: `translate(${-50}px, ${-50}%)`,
     minWidth: 350,
     height: 90,
-    backgroundColor: "#92d72e",
+    backgroundColor: "#004d98",
     "& > *": {
       paddingLeft: 50,
       fontSize: "1.2rem",
@@ -153,12 +151,11 @@ const useStyles = makeStyles({
   },
   placeName: {
     color: "white",
-    backgroundColor: "#72cdd2",
+    backgroundColor: "#004d98",
     paddingLeft: 35
   },
   content: {
     display: "flex",
-    alignItems: "center",
     color: "white",
     paddingLeft: 35,
     "& a": {
@@ -167,7 +164,8 @@ const useStyles = makeStyles({
     },
     "& svg": {
       fontSize: "1.1rem",
-      marginRight: 5
+      marginRight: 5,
+      marginTop: 3.5
     }
   },
 })
@@ -176,8 +174,11 @@ const Content = (props) => {
   const classes = useStyles()
   const {state, center, zoom, stores, toggleMarker} = props
 
+  // media data for description include images and credits
   const media = [
     { image: Monas, credit: "Uray Zulfikar", link: "https://unsplash.com/@uray_z?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" },
+    { image: NationalMuseum, credit: "Dea Kariza", link: "https://www.instagram.com/dea.kariza/" },
+    { image: NationalGallery, credit: "Galeri Nasional Indonesia", link: "https://www.instagram.com/galerinasional/" },
     { image: Planetarium, credit: "Jakarta Tourism", link: "https://www.instagram.com/jakarta_tourism/" },
     { image: MangrovePark, credit: "TWA Mangrove Angke Kapuk", link: "https://www.instagram.com/twa_mangrove/" },
     { image: TMII, credit: "Novik", link: "https://www.instagram.com/meisnovik/" },
@@ -186,8 +187,6 @@ const Content = (props) => {
     { image: OldTown, credit: "Yulia Agnis", link: "https://unsplash.com/@agnisyulia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" },
     { image: Chinatown, credit: "Jakob Montrasio", link: "https://www.flickr.com/people/37803129@N00" },
     { image: KpSeribu, credit: "Pulau Seribu", link: "https://pulauseribu.co.id/pulau-ayer/" },
-    { image: NationalMuseum, credit: "Dea Kariza", link: "https://www.instagram.com/dea.kariza/" },
-    { image: NationalGallery, credit: "Galeri Nasional Indonesia", link: "https://www.instagram.com/galerinasional/" },
     { image: SetuBabakan, credit: "Ari WibisonoZulfikar", link: "https://www.instagram.com/wibisono.ari/" },
   ]
   
@@ -326,7 +325,7 @@ const Description = (props) => {
         ) 
       }
       <CardContent className={classes.content}>
-        <RoomIcon style={{ color: "#72cdd2" }} />
+        <RoomIcon style={{ color: "#db0030" }} />
         <Typography>{address}</Typography>
       </CardContent>
       <CardContent className={classes.content}>

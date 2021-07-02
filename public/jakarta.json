@@ -11,6 +11,22 @@
     ]
   },
   {
+    "lat": -6.17652, 
+    "lng": 106.82235,
+    "name": "National Museum",
+    "address": "12 Medan Merdeka Barat, Gambir District, Jakarta",
+    "link": "museumnasional.or.id",
+    "description": ["The National Museum of Indonesia, is an archeological, historical, ethnological, and geographical museum located in Jalan Medan Merdeka Barat, Central Jakarta, right on the west side of Merdeka Square. Popularly known as the Elephant Museum after the elephant statue in its forecourt."]
+  },
+  {
+    "lat": -6.17847, 
+    "lng": 106.83275,
+    "name": "National Gallery",
+    "address": "14 Medan Merdeka Barat, Gambir District, Jakarta",
+    "link": "galeri-nasional.or.id",
+    "description": ["The National Gallery of Indonesia is an art gallery and museum in Jakarta, Indonesia. The National Gallery of Indonesia has existed as a cultural institution in the field of visual arts since May 8, 1999."]
+  },
+  {
     "lat": -6.18999, 
     "lng": 106.83886,
     "name": "Planetarium and Observatory",
@@ -115,23 +131,6 @@
     ],
     "link": "",
     "description": ["The Thousand Islands are a chain of islands to the north of Jakarta's coast. It forms the only regency of Jakarta, the capital of Indonesia. It consists of a string of 342 islands stretching 45 km north into the Java Sea at West Jakarta Bay and in fact north of Banten Province."]
-  },
-  
-  {
-    "lat": -6.17652, 
-    "lng": 106.82235,
-    "name": "National Museum",
-    "address": "12 Medan Merdeka Barat, Gambir District, Jakarta",
-    "link": "museumnasional.or.id",
-    "description": ["The National Museum of Indonesia, is an archeological, historical, ethnological, and geographical museum located in Jalan Medan Merdeka Barat, Central Jakarta, right on the west side of Merdeka Square. Popularly known as the Elephant Museum after the elephant statue in its forecourt."]
-  },
-  {
-    "lat": -6.17847, 
-    "lng": 106.83275,
-    "name": "National Gallery",
-    "address": "14 Medan Merdeka Barat, Gambir District, Jakarta",
-    "link": "galeri-nasional.or.id",
-    "description": ["The National Gallery of Indonesia is an art gallery and museum in Jakarta, Indonesia. The National Gallery of Indonesia has existed as a cultural institution in the field of visual arts since May 8, 1999."]
   },
   {
     "lat": -6.34166, 

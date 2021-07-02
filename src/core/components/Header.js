@@ -14,7 +14,7 @@ const useStyles = makeStyles(theme => ({
     justifyContent: "space-around",
     minHeight: 125,
     minWidth: 1420,
-    backgroundColor: "#fffeff",
+    backgroundColor: "#e6e6e6",
     "& > *": {
       color: "#647d81"
     }
