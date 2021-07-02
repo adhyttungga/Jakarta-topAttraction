@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Jakarta-topAttraction/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/Jakarta-topAttraction/static/js/main.bc90957e.chunk.js",
-    "main.js.map": "/Jakarta-topAttraction/static/js/main.bc90957e.chunk.js.map",
-    "runtime-main.js": "/Jakarta-topAttraction/static/js/runtime-main.e88f1515.js",
-    "runtime-main.js.map": "/Jakarta-topAttraction/static/js/runtime-main.e88f1515.js.map",
-    "static/js/2.3ebfe415.chunk.js": "/Jakarta-topAttraction/static/js/2.3ebfe415.chunk.js",
-    "static/js/2.3ebfe415.chunk.js.map": "/Jakarta-topAttraction/static/js/2.3ebfe415.chunk.js.map",
+    "main.js": "/Jakarta-topAttraction/static/js/main.7f435700.chunk.js",
+    "main.js.map": "/Jakarta-topAttraction/static/js/main.7f435700.chunk.js.map",
+    "runtime-main.js": "/Jakarta-topAttraction/static/js/runtime-main.c6ecaae1.js",
+    "runtime-main.js.map": "/Jakarta-topAttraction/static/js/runtime-main.c6ecaae1.js.map",
+    "static/js/2.6738f3cc.chunk.js": "/Jakarta-topAttraction/static/js/2.6738f3cc.chunk.js",
+    "static/js/2.6738f3cc.chunk.js.map": "/Jakarta-topAttraction/static/js/2.6738f3cc.chunk.js.map",
     "index.html": "/Jakarta-topAttraction/index.html",
     "static/css/main.2ae47eeb.chunk.css.map": "/Jakarta-topAttraction/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.3ebfe415.chunk.js.LICENSE.txt": "/Jakarta-topAttraction/static/js/2.3ebfe415.chunk.js.LICENSE.txt",
+    "static/js/2.6738f3cc.chunk.js.LICENSE.txt": "/Jakarta-topAttraction/static/js/2.6738f3cc.chunk.js.LICENSE.txt",
     "static/media/ancol.5c92c31e.jpg": "/Jakarta-topAttraction/static/media/ancol.5c92c31e.jpg",
     "static/media/chinatown.29c824f3.jpg": "/Jakarta-topAttraction/static/media/chinatown.29c824f3.jpg",
     "static/media/galeri-nasional.880004c7.jpg": "/Jakarta-topAttraction/static/media/galeri-nasional.880004c7.jpg",
@@ -24,9 +24,9 @@
     "static/media/taman-mini.87db733a.jpg": "/Jakarta-topAttraction/static/media/taman-mini.87db733a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e88f1515.js",
-    "static/js/2.3ebfe415.chunk.js",
+    "static/js/runtime-main.c6ecaae1.js",
+    "static/js/2.6738f3cc.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.bc90957e.chunk.js"
+    "static/js/main.7f435700.chunk.js"
   ]
 }
