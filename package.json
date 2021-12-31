@@ -1,5 +1,6 @@
 {
   "name": "jakarta-top-attraction",
+  "homepage": "https://adhyttungga.github.io/jakarta-top-attraction",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
